@@ -1,13 +1,13 @@
-### Hi there 👋
+<p> Hi there 👋 </p>
 
-### My name is Léa, a passionate learner at ADA Tech School, focused on honing my skills in web development 🌐 Specifically, I'm deeply interested in the front-end realm, where I enjoy creating intuitive and visually appealing user interfaces. ✨ Constantly exploring the latest technologies, I'm committed to learn and grow as a developer one line of code at a time. 🚀 Join me on this exciting journey as I dive into the world of development and connect ! 🤝 
+<p> My name is Léa, a passionate learner at ADA Tech School, focused on honing my skills in web development 🌐 Specifically, I'm deeply interested in the front-end realm, where I enjoy creating intuitive and visually appealing user interfaces. ✨ Constantly exploring the latest technologies, I'm committed to learn and grow as a developer one line of code at a time. 🚀 Join me on this exciting journey as I dive into the world of development and connect ! 🤝 </p>
+<p>#WebDevelopment #FrontEndEnthusiast</p>
 
-### #WebDevelopment #FrontEndEnthusiast 
 
 <h3 align="left">Languages and Tools </h3>
 <p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
 
-### You can connect with me on [LinkedIn](https://www.linkedin.com/in/l%C3%A9a-cassegrain-9b4b1b270/) to learn more about my professional background and experiences.
+<p> You can connect with me on [LinkedIn](https://www.linkedin.com/in/l%C3%A9a-cassegrain-9b4b1b270/) to learn more about my professional background and experiences.</p>
 
 
 <!--

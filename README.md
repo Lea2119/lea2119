@@ -4,7 +4,7 @@
 
 ### #WebDevelopment #FrontEndEnthusiast 
 
-### You can connect with me on [LinkedIn]([https://www.linkedin.com/in/your-linkedin-username](https://www.linkedin.com/in/l%C3%A9a-cassegrain-9b4b1b270/)) to learn more about my professional background and experiences.
+### You can connect with me on [LinkedIn](https://www.linkedin.com/in/l%C3%A9a-cassegrain-9b4b1b270/) to learn more about my professional background and experiences.
 
 
 <!--

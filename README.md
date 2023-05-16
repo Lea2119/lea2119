@@ -1,6 +1,6 @@
 <p> Hi there 👋 </p>
 
-<p> My name is Léa, a passionate learner at ADA Tech School, focused on honing my skills in web development 🌐 Specifically, I'm deeply interested in the front-end realm, where I enjoy creating intuitive and visually appealing user interfaces. ✨ Constantly exploring the latest technologies, I'm committed to learn and grow as a developer one line of code at a time. 🚀 Join me on this exciting journey as I dive into the world of development and connect ! 🤝 </p>
+<p> My name is Léa, a passionate web developer training at ADA Tech School, focused on honing my skills in web development 🌐 Specifically, I'm deeply interested in the front-end realm, where I enjoy creating intuitive and visually appealing user interfaces. ✨ Constantly exploring the latest technologies, I'm committed to learn and grow as a developer one line of code at a time. 🚀 Join me on this exciting journey as I dive into the world of development and connect ! 🤝 </p>
 <p>#WebDevelopment #FrontEndEnthusiast</p>
 
 
